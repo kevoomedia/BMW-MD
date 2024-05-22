@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> BMW X5 MD </h1>
+ <h1 align="center"> Kévøø Md </h1>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -9,7 +9,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> BMW MD💥, A Simple WhatsApp user BOT, Created by Ibrahim Tech.
+<p align="center"> Kévøø😜 Md, A Simple WhatsApp user BOT, Created by Ibrahim Tech.
 </p>
 <p align="center">
 
@@ -29,8 +29,8 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Support 🧧 🧧 🧧 🧧
 ## Join my channel for updates and get free cc
-<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VaauR3bIHphNVGavRg2O">
+    <img alt="whatsapp Group" src="https://chat.whatsapp.com/BZmwl30gccmGYushBf9dc3" />
   </a>
 </p>
 
@@ -38,8 +38,8 @@
 HOW TO REACH THE OWNER? 
  
    
-   <a href="https://wa.me/message/74F2PC4JA4F3P1">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+   <a href="https://wa.me/255694854739">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
   </a>&nbsp;&nbsp;
    <a
 
@@ -93,12 +93,12 @@ HOW TO REACH THE OWNER?
 ## Contributions
 
 
-Contributions to *BMW-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to *Kévøø😜-Md* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 ## THANKS TO [GOD]
 
 ## License
 
-The *BMW-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
+The *Kévøø😜-Md* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the *BMW-MD*  to enhance your Whatsapp more enjoyable
 ☣Powered by Ibrahim Tech
