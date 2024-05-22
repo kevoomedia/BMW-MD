@@ -9,7 +9,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> BMW MD💥, A Simple WhatsApp user BOT, Created by Ibrahim Tech.
+<p align="center"> Kévøø😜-Md, A Simple WhatsApp user BOT, Created by Kévøø.
 </p>
 <p align="center">
 
@@ -52,7 +52,7 @@ HOW TO REACH THE OWNER?
 
 1, Star the repo up there then click Here To  [`FORK`](https://github.com/ibrahimaitech/BMW-MD/fork)
 
-2, TAP ON IBRAHIM TECH APP DOWN THERE
+2, TAP ON Kévøø😜-Md APP DOWN THERE
 
 
 
@@ -60,7 +60,7 @@ HOW TO REACH THE OWNER?
 
 
 
-4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Ibrahim Tech App..
+4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Kévøø😜 App..
 
 ## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 HEROKU OR 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  𝘽𝙈𝙒 𝙈𝘿
 
@@ -98,9 +98,9 @@ Contributions to *BMW-MD* are welcome! If you have ideas for new features, impro
 
 ## License
 
-The *BMW-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
+The *Kévøø😜-Md* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the *BMW-MD*  to enhance your Whatsapp more enjoyable
-☣Powered by Ibrahim Tech
+Enjoy the diverse features of the *Kévøø😜-Md*  to enhance your Whatsapp more enjoyable
+☣Powered by Kévøø😜
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
